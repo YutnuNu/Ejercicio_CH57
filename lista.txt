@@ -2,3 +2,5 @@
 2.Terminar bufandas
 3.Comprar estambre blanco
 4.Comprar estambre naranja
+5.Comprar ojos de seguridad
+6.Comprar estambre negro
