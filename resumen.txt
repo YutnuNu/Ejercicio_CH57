@@ -1,0 +1,8 @@
+Comandos basicos para editar archivos txt
+i/a entar a edicion
+esc para cambiar a command
+touch crear archivos vacios
+:w guardar
+:wq guardar y salir
+:q! salir sin guardar
+:q salir
